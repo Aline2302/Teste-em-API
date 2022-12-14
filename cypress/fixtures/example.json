@@ -1,0 +1,6 @@
+{
+  "specPattern": ["cypress/e2e/features/**/*.feature", "cypress/e2e/**/*.cy.js"],
+  "baseUrl":"https://fakerestapi.azurewebsites.net/api",
+  "video":false
+  
+}

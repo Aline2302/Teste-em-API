@@ -1,0 +1,16 @@
+{
+  "name": "cy-intermediario",
+  "version": "1.0.0",
+  "description": "preencher cadastro",
+  "main": "index.js",
+  "scripts": {
+    "cy": "cypress open",
+    "cyrun": "cypress run"
+  },
+  "author": "Aline Meneses",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^7.1.0",
+    "cypress": "9.5.1"
+  }
+}
